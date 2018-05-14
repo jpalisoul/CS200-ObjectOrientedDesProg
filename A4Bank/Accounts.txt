@@ -1,0 +1,7 @@
+1000,2500.0,Joe Palisoul,0
+1001,1752.23,Jesse Owens,1
+1002,2001.0,Dean Zeller,2
+1003,1000.0,Daniel Rush,3
+1004,458.23,Owen Daniels,4
+1005,1818.18,Peyton Manning,5
+1006,1.01,Philip Rivers,6
